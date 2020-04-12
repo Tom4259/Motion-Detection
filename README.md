@@ -10,6 +10,7 @@ to copy the file
 
 Do make improvements if you need to.
 
+
 PIR sensor:
 
 VCC -- 5V
@@ -19,10 +20,13 @@ OUT -- GPIO 23
 GND -- Ground
 
 
+
 Camera:
 
 
 Enable camera in Raspberry pi configuration then reboot your Pi
+
+
 
 RGB LED:
 
@@ -33,6 +37,7 @@ Anode -- 3.3V
 Green -- GPIO 18
 
 Blue -- GPIO 27
+
 
 
 Buzzer:
