@@ -4,7 +4,7 @@ Raspberry Pi motion detectionusing PIR sensor and PiCamera
 I have written most of this code by hand but i have used other sources which i have customized to my own need.
 
 Use: 
-git clone https://github.com/Tom4259/Motion-Detection/
+git clone https://github.com/Tom4259/Motion-Detection.git
 
 to copy the file
 
