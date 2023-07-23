@@ -1,5 +1,5 @@
 # Motion-Detection
-Raspberry Pi motion detectionusing PIR sensor and PiCamera
+Raspberry Pi motion detection using PIR sensor and PiCamera
 
 I have written most of this code by hand but i have used other sources which i have customized to my own need.
 
